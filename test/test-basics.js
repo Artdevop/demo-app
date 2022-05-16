@@ -24,8 +24,5 @@ describe('/', function () {
         done();
       });
     });
-    Empty Bracket {
-      
-    }
   });
 });
